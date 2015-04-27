@@ -1,0 +1,13 @@
+body { 
+    background: url(/img/wood.png);
+    background-size: 100% auto;
+    padding:20px;
+}
+
+.profile-picture {
+    margin-bottom: 20px;
+}
+
+.fa {
+    padding-bottom: 15px;
+}
